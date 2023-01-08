@@ -28,12 +28,12 @@
 
 SIFT features
 
-<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/keypoints.png" width="350">
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/keypoints.png" width="450">
 
 SIFT signatures
 
-<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/sift_signatures.png" width="350">
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/sift_signatures.png" width="450">
 
 Inliers (after removing outliers with RANSAC)
 
-<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/inliers.png" width="350">
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/inliers.png" width="450">
