@@ -16,9 +16,9 @@
 
 ### Βιβλιοθήκες
 
-* matplotlib
-* python-opencv
-* numpy
+* [matplotlib](https://matplotlib.org/)
+* [python-opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+* [numpy](https://numpy.org/)
 
 ### Παράδειγμα - Stitching 2 εικόνων
 
