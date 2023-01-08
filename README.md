@@ -37,3 +37,7 @@
 4. Inliers (after removing outliers with RANSAC)
 
 <img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/inliers.png" width="450">
+
+5. Stitched image
+
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/stitched.jpg" width="450">
