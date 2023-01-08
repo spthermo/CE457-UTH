@@ -19,3 +19,21 @@
 * matplotlib
 * python-opencv
 * numpy
+
+### Παράδειγμα - Stitching 2 εικόνων
+
+Αρχικές εικόνες 1 (left) και 2 (right)
+
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/1.jpg" width="150"> <img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/2.jpg" width="250">
+
+SIFT features
+
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/keypoints.png" width="350">
+
+SIFT signatures
+
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/sift_signatures.png" width="350">
+
+Inliers (after removing outliers with RANSAC)
+
+<img src="https://github.com/spthermo/CE457-UTH/blob/main/examples/inliers.png" width="350">
